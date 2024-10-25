@@ -66,5 +66,5 @@ Project-1._Ноутбук-шаблон.ipynb.
 
 ## Авторы
 
-* [Светлана](lisa17svetlanka11@mail.ru)
+* [Igor_M](@mail.ru)
 
